@@ -1,9 +1,9 @@
-REMATO ALIENWARE Area 51M R2 Intel® Core i7-10700 16 GB DDR4 256 SSD 1TB HD 9399 soles
+REMATO ALIENWARE Area 51M R2 Intel® Core i7-10700 16 GB DDR4 256 SSD 1TB HD 8999 soles
 
 
 Intel® Core ™ i7-10700 2.9GHz / 4.8GHz, 8 núcleos - Décima generación
-RAM 16GB DDR4-2933 ampliable 
-Discos duro 1 TB SATA + Sólido SSD 256GB PCIe
+RAM 16GB DDR4-2933 ampliable hasta 64GB
+Discos duro 1 TB SATA + Sólido SSD 256GB PCIe 3 Slots
 Pantalla 17,3" Full HD (1920 x 1080) IPS, a 144Hz, Tobii Eyetracking
 Video NVIDIA GeForce GTX 1660Ti (6 GB GDDR6)
 Teclado Alienware TactX con iluminación AlienFX RGB LED por tecla, capacidad multitáctil, N-Key, Zonas de iluminación AlienFX en chasis
